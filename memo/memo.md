@@ -60,3 +60,8 @@ pip uninstall torch
 > torch.cuda.is_available()  
 True
 
+### データ準備
+
+- colaboのgsutilのコマンドのパスを見ながら、ダウンロードしたアセットを移動する.
+
+- 
