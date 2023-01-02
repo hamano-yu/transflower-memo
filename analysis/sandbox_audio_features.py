@@ -8,8 +8,8 @@ ddc_features = np.load(ddc_file)
 import IPython.display as ipd
 ipd.Audio(music_file) # load a local WAV file
 
-import feature_extraction.madmom as madmom
-from feature_extraction.madmom.audio.cepstrogram import MFCC
+import madmom as madmom
+from madmom.audio.cepstrogram import MFCC
 proc_dwn = madmom.features.RNNDownBeatProcessor()
 beats = proc_dwn(music_file, fps=20)
 

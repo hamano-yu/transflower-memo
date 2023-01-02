@@ -1,3 +1,7 @@
+# 自分用作業メモ
+- [作業メモ](memo/memo.md)
+
+# Original Readme
 This repo holds the code to perform experiments with the multimodal autoregressive probabilistic model [Transflower](http://metagen.ai/transflower).
 
 Paper: [Transflower: probabilistic autoregressive dance generation with multimodal attention](https://arxiv.org/abs/2106.13871)
