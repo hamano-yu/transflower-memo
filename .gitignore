@@ -31,3 +31,6 @@ to_check*
 MNIST/
 models/x_transformers
 data/scripts/*
+
+
+*.venv/
